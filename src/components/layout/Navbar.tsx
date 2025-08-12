@@ -14,7 +14,7 @@ const Navbar = () => {
     <header className="sticky top-0 z-40 w-full border-b bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <nav className="container mx-auto px-6 h-16 flex items-center justify-between">
         <Link to="/" className="font-semibold tracking-tight">
-          Skill Hire Flow
+          Doodle
         </Link>
         <div className="hidden md:flex items-center gap-6">
           {links.map((l) => (
