@@ -24,14 +24,14 @@ AcademiLink is a secure and scalable freelance academic writing platform connect
 
 ## Folder Structure
 
-/src
-/controllers # Route handlers
-/models # MongoDB schemas
-/routes # API routes
-/middlewares # Authentication, error handling
-/services # Payment, notifications, socket handling
-/utils # Helper functions
-server.js # Entry point
+/src  
+/controllers # Route handlers  
+/models # MongoDB schemas  
+/routes # API routes  
+/middlewares # Authentication, error handling  
+/services # Payment, notifications, socket handling  
+/utils # Helper functions  
+server.js # Entry point  
 
 
 ## Getting Started
@@ -52,10 +52,6 @@ server.js # Entry point
 - `POST /api/payments/initiate` — Start escrow payment  
 - `POST /api/payments/release` — Release payment after approval  
 - `POST /api/reviews` — Submit ratings and reviews  
-
-## Contribution
-
-Feel free to contribute by submitting pull requests or raising issues. Please follow the code style and write tests where applicable.
 
 ---
 
