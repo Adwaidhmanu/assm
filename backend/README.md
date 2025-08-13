@@ -1,4 +1,4 @@
-# AcademiLink Backend
+# Doodle Backend
 
 ## Project Overview
 
