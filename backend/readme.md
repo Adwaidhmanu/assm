@@ -1,2 +1,2 @@
-backend area \n
+backend area
 **Contributor:** Sian Soj
