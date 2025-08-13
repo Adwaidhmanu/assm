@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AcademiLink is a secure and scalable freelance academic writing platform connecting clients with skilled writers. The backend handles user authentication, job postings, bidding, real-time messaging, payment processing via escrow, ratings, and admin management.
+Doodle is a secure and scalable freelance academic writing platform connecting clients with skilled writers. The backend handles user authentication, job postings, bidding, real-time messaging, payment processing via escrow, ratings, and admin management.
 
 ## Technology Stack
 
